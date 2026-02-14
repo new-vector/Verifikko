@@ -1,8 +1,5 @@
 {
   "installCommand": "npm ci --prefix Prototype",
   "buildCommand": "npm run build --prefix Prototype",
-  "outputDirectory": "Prototype/dist",
-  "installCommand": "npm ci --prefix Prototype",
-  "buildCommand": "npm run build --prefix Prototype",
   "outputDirectory": "Prototype/dist"
 }
