@@ -7,7 +7,7 @@
   <p>
     <b>The platform to connect founders and investors.</b>
     <br/>
-    <i>Prototypes for landing page</i>
+    <i>Shadcn UI, Vite, React, Tailwind CSS</i>
   </p>
 
   <a href="#">
